@@ -1,0 +1,10 @@
+0 Cranberry
+1 Golden Berry
+2 Raspberry
+3 Blackberry
+4 Blueberry
+5 Strawberry
+6 Pineberry
+7 Cloudberry
+8 Huckleberry
+9 Gooseberry
